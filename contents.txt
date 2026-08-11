@@ -1,3 +1,4 @@
 1. student health - 1st project for kaggle competition
 2. smart phone addictiotn - 2nd project for kaggle competition
      - xgboost roc-auc score - 0.9625
+     - LGB had a lower roc-auc score tan xgboost - alarming
