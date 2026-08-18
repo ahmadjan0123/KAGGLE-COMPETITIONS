@@ -3,3 +3,4 @@
      - xgboost roc-auc score - 0.9625
      - LGB had a lower roc-auc score tan xgboost - alarming
      - score is not incresing right now
+     -scoring went down . this is the last time i am withdrawing from field.
